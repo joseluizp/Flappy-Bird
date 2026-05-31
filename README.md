@@ -14,7 +14,7 @@ O objetivo foi praticar lógica de jogos 2D, manipulação de eventos, física s
 ![Gameplay](assets/projeto%20flappy%20bird1.jpeg)
 
 ####  Game Over
-![Game Over](assets/projeto%20flappy%20bird2.jpeg)
+![Contagem de pontuações](assets/projeto%20flappy%20bird2.jpeg)
 
 #### Funcionalidades
 
