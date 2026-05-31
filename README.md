@@ -11,10 +11,10 @@ O objetivo foi praticar lógica de jogos 2D, manipulação de eventos, física s
 #### Demonstração
 
 ####  Gameplay
-![Gameplay](assets/gameplay.png)
+![Gameplay](assets/projeto%20flappy%20bird1.jpeg)
 
 ####  Game Over
-![Game Over](assets/gameover.png)
+![Game Over](assets/projeto%20flappy%20bird2.jpeg)
 
 #### Funcionalidades
 
@@ -94,6 +94,6 @@ Estrutura de jogos 2D simples
 Controle de física básica
 Programação orientada a objetos
 
- Autor : 
+ Autor : https://github.com/joseluizp/Flappy-Bird.git
 
 Projeto desenvolvido para fins de estudo e portfólio.
