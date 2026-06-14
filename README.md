@@ -1,7 +1,7 @@
 #### Imagens do Jogo
 
 ![Gameplay](assets/projeto%20flappy%20bird1.jpeg)
-![Game Over](assets/projeto%20flappy%20bird2.jpeg)
+![Game contagem ](assets/projeto%20flappy%20bird2.jpeg)
 
 #### Flappy Bird em Java (Swing)
 
